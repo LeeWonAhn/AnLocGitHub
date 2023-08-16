@@ -1,0 +1,15 @@
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/bin/Debug/net6.0/Hello World
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/bin/Debug/net6.0/Hello World.deps.json
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/bin/Debug/net6.0/Hello World.runtimeconfig.json
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/bin/Debug/net6.0/Hello World.dll
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/bin/Debug/net6.0/Hello World.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.csproj.AssemblyReference.cache
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.AssemblyInfoInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.AssemblyInfo.cs
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.csproj.CoreCompileInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.dll
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/refint/Hello World.dll
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/Hello World.genruntimeconfig.cache
+/Users/jarvis/Downloads/AnLocGitHub/Hello World/obj/Debug/net6.0/ref/Hello World.dll
