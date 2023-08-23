@@ -1,0 +1,15 @@
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.csproj.AssemblyReference.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.AssemblyInfoInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.AssemblyInfo.cs
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.csproj.CoreCompileInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/bin/Debug/net6.0/Bài Tập Câu Điều Kiện
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/bin/Debug/net6.0/Bài Tập Câu Điều Kiện.deps.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/bin/Debug/net6.0/Bài Tập Câu Điều Kiện.runtimeconfig.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/bin/Debug/net6.0/Bài Tập Câu Điều Kiện.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/bin/Debug/net6.0/Bài Tập Câu Điều Kiện.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/refint/Bài Tập Câu Điều Kiện.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/Bài Tập Câu Điều Kiện.genruntimeconfig.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bài Tập Câu Điều Kiện/obj/Debug/net6.0/ref/Bài Tập Câu Điều Kiện.dll

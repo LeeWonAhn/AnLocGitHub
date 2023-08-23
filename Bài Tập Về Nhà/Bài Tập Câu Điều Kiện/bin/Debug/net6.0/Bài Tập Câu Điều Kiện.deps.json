@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bài Tập Câu Điều Kiện/1.0.0": {
+        "runtime": {
+          "Bài Tập Câu Điều Kiện.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bài Tập Câu Điều Kiện/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
