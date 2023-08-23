@@ -17,9 +17,6 @@ class Program
         }
         else if (number < 20)
         {
-            if (number < 10)
-                Console.WriteLine(ones[number]);
-            else
                 Console.WriteLine(teens[number - 10]);
         }
         else if (number < 100)
