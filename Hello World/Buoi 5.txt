@@ -1,0 +1,118 @@
+//tam giac nguoc
+static void Main(string[] args)
+        {
+            int canh_tam_giac = 6;
+            int temp = 6;
+            for (int i = 0; i < 6; i++)
+            {
+                int spaceCount = canh_tam_giac - temp;
+                for (int g = 0; g < spaceCount; g++)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = 0; j < temp; j++)
+                {
+                    Console.Write("o");
+                }
+                temp--;
+                Console.WriteLine("");
+            }
+        }
+
+//Tim so lon nhat trong mang
+  static void Main(string[] args)
+        {
+            int[] mang_so = { 23, 43, 24, 45, 34 };
+            int giatricaonhat = int.MinValue;
+            for (int i = 0; i < mang_so.Length; i++)
+            {
+                if (giatricaonhat < mang_so[i])
+                {
+                    giatricaonhat = mang_so[i];
+                }
+            }
+            Console.WriteLine("Gia tri cao nhat la " + giatricaonhat);
+        }
+//TIm so le lon nhat trong mang
+ int[] mang_so = { 22, 44, 24, 46, 34 };
+            int giatricaonhat = int.MinValue;
+            bool coSoLeHaykhong = false;
+            for (int i = 0; i < mang_so.Length; i++)
+            {
+                if (mang_so[i] % 2 == 1)
+                {
+                    coSoLeHaykhong = true;
+                    if (mang_so[i] > giatricaonhat)
+                    {
+                        giatricaonhat = mang_so[i];
+                    }
+                }
+            }
+            if (!coSoLeHaykhong)
+            {
+                Console.WriteLine("Khong cos so le trong mang");
+            }
+            else
+            {
+                Console.WriteLine("So le cao nhat la " + giatricaonhat);
+            }
+
+//Bai tap do Min
+ static void Main(string[] args)
+        {
+            string[,] map ={
+                {"*","","","",""},
+                {"","","","*",""},
+                {"","","*","","*"},
+                {"","","","",""},
+            };
+            for (int x = 0; x < map.GetLength(1); x++)
+            {
+                for (int y = 0; y < map.GetLength(0); y++)
+                {
+                    if (map[y, x] == "*")
+                    {
+
+                    }
+                    else
+                    {
+                        int dem_so_bom = 0;
+
+                        int[,] xung_quanh = {
+                            {y-1,x-1},{y-1,x+0},{y-1,x+1},
+                            {y+0,x-1}          ,{y+0,x+1},
+                            {y+1,x-1},{y+1,x+0},{y+1,x+1}
+                        };
+                        for (int i = 0; i < xung_quanh.GetLength(0); i++)
+                        {
+                            if (xung_quanh[i, 0] < 0 || xung_quanh[i, 1] < 0
+                            || xung_quanh[i, 0] >= map.GetLength(0) || xung_quanh[i, 1] >= map.GetLength(1))
+                            {
+
+                            }
+                            else
+                            {
+                                if (map[xung_quanh[i, 0], xung_quanh[i, 1]] == "*")
+                                {
+                                    dem_so_bom++;
+                                }
+                            }
+                        }
+                        map[y, x] = dem_so_bom.ToString();
+                    }
+                }
+            }
+            for (int y = 0; y < map.GetLength(0); y++)
+            {
+                for (int x = 0; x < map.GetLength(1); x++)
+                {
+                    Console.Write(map[y, x]);
+
+                }
+                Console.WriteLine();
+            }
+
+        }
+
+BTVN: 1.Tìm phần tử lớn nhất của mảng hai chiều
+2.Tính tổng các giá trị trên đường chéo chính mảng hai chiều vuông

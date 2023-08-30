@@ -1,4 +1,5 @@
-﻿namespace Helloworld{
+﻿namespace Helloworld
+{
     class Program
     {
         const int g = 10; // const khong the thay doi
@@ -49,7 +50,7 @@
             //     Console.WriteLine("Dang hoc cap 3");
             // }else
             // {
-                
+
             // }
             // Console.WriteLine("Ket thuc chuong trinh");
             // int month = 1;
@@ -131,16 +132,68 @@
             //     total += diem_cac_man[i];
             // }
             // Console.WriteLine("Total: " + total);
-            double[,] diem_cac_lop = {{1,3,2}, {3.3, 4.2, 4}};
-            // double diem = diem_cac_lop[0, 2];
-            // double diem4 = diem_cac_lop[1, 2];
-            for (int i = 0; i< diem_cac_lop.GetLength(0); i++){
-                for (int j = 0; j < diem_cac_lop.GetLength(1); j++)
+            // double[,] diem_cac_lop = {{1,3,2}, {3.3, 4.2, 4}};
+            //  double diem = diem_cac_lop[0, 2];
+            //  double diem4 = diem_cac_lop[1, 2];
+            // for (int i = 0; i< diem_cac_lop.GetLength(0); i++){
+            //     for (int j = 0; j < diem_cac_lop.GetLength(1); j++)
+            // {
+            //         Console.Write(diem_cac_lop[i, j] + " ");
+            // }
+            // Console.WriteLine();
+            // }
+            string[,] map ={
+                {"*","","","",""},
+                {"","","","*",""},
+                {"","","*","","*"},
+                {"","","","",""},
+            };
+            for (int x = 0; x < map.GetLength(1); x++)
             {
-                    Console.Write(diem_cac_lop[i, j] + " ");
+                for (int y = 0; y < map.GetLength(0); y++)
+                {
+                    if (map[y, x] == "*")
+                    {
+
+                    }
+                    else
+                    {
+                        int dem_so_bom = 0;
+
+                        int[,] xung_quanh = {
+                            {y-1,x-1},{y-1,x+0},{y-1,x+1},
+                            {y+0,x-1}          ,{y+0,x+1},
+                            {y+1,x-1},{y+1,x+0},{y+1,x+1}
+                        };
+                        for (int i = 0; i < xung_quanh.GetLength(0); i++)
+                        {
+                            if (xung_quanh[i, 0] < 0 || xung_quanh[i, 1] < 0
+                            || xung_quanh[i, 0] >= map.GetLength(0) || xung_quanh[i, 1] >= map.GetLength(1))
+                            {
+
+                            }
+                            else
+                            {
+                                if (map[xung_quanh[i, 0], xung_quanh[i, 1]] == "*")
+                                {
+                                    dem_so_bom++;
+                                }
+                            }
+                        }
+                        map[y, x] = dem_so_bom.ToString();
+                    }
+                }
             }
-            Console.WriteLine();
+            for (int y = 0; y < map.GetLength(0); y++)
+            {
+                for (int x = 0; x < map.GetLength(1); x++)
+                {
+                    Console.Write(map[y, x]);
+
+                }
+                Console.WriteLine();
             }
+
+        }
     }
-}
 }
