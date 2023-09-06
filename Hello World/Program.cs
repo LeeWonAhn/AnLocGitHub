@@ -245,6 +245,11 @@
     // private static float  ChuyenDoiFSangC(float doF){
     //     return (doF - 32) / 1.8f;
     // }
+    // BankAccount account1 = new BankAccount("ten", 100000, 0906669985);
+    // BankAccount account2 = new BankAccount();
+    var account = new BankAccount();
+    string a = BankAccount.specialName;
+    // ulitiles.Sum(1, 2);
 }
 }
 }

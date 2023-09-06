@@ -1,0 +1,3 @@
+value type: trỏ thẳng đến giá trị
+referance type là chỉ đến dịa chỉ => gia trị
+Pointer type là chỉ đến địa chỉ
