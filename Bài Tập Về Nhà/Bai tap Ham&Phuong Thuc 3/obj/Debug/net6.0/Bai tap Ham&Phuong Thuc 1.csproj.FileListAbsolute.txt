@@ -1,0 +1,15 @@
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/bin/Debug/net6.0/Bai tap Ham&Phuong Thuc 1
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/bin/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.deps.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/bin/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.runtimeconfig.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/bin/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/bin/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.csproj.AssemblyReference.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.AssemblyInfoInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.AssemblyInfo.cs
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.csproj.CoreCompileInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/refint/Bai tap Ham&Phuong Thuc 1.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/Bai tap Ham&Phuong Thuc 1.genruntimeconfig.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai tap Ham&Phuong Thuc 3/obj/Debug/net6.0/ref/Bai tap Ham&Phuong Thuc 1.dll

@@ -1,0 +1,70 @@
+1.Ham
+
+public int TongMang(int[] mang, int so){
+
+}
+
+Trong lập trình, các mức bảo vệ (protection level) được sử dụng để quản lý và kiểm soát quyền truy cập vào các thành phần của mã nguồn, chẳng hạn như lớp, phương thức hoặc biến. Các mức bảo vệ giúp bảo vệ tính đóng gói, ẩn thông tin quan trọng và duy trì cấu trúc của mã nguồn. Dưới đây là một số lý do tại sao các mức bảo vệ được sử dụng:
+
+Bảo mật thông tin: Các mức bảo vệ cho phép bạn giới hạn quyền truy cập vào các phần của mã nguồn. Điều này đảm bảo rằng chỉ có những người được ủy quyền mới có thể truy cập vào thông tin nhạy cảm hoặc quan trọng.
+
+Tính đóng gói: Các mức bảo vệ cho phép bạn ẩn các chi tiết triển khai bên trong một thành phần, nhưng vẫn cung cấp giao diện công khai. Điều này giúp giảm sự phức tạp của mã nguồn và tạo điều kiện để thay đổi triển khai mà không ảnh hưởng đến những nơi sử dụng thành phần đó.
+
+Kiểm soát truy cập: Các mức bảo vệ giúp kiểm soát cách các thành phần khác nhau của chương trình có thể tương tác với nhau. Điều này đảm bảo tính nhất quán và độ tin cậy của hệ thống.
+
+Quản lý sự thay đổi: Các mức bảo vệ giúp ngăn chặn việc truy cập trái phép vào các thành phần quan trọng của mã nguồn. Điều này ngăn chặn việc thay đổi không được kiểm soát, giúp duy trì tính ổn định của hệ thống.
+
+Hỗ trợ đa ngôn ngữ và đa nền tảng: Trong các dự án lớn hoặc các dự án phát triển mã nguồn mở, việc sử dụng các mức bảo vệ giúp quản lý quyền truy cập và tương tác giữa các nhóm phát triển khác nhau, có thể đến từ các quốc gia hay môi trường khác nhau.
+
+Tóm lại, các mức bảo vệ trong lập trình có vai trò quan trọng trong việc kiểm soát quyền truy cập và tương tác giữa các thành phần của mã nguồn. Chúng giúp bảo vệ thông tin quan trọng, duy trì tính đóng gói và ổn định của hệ thống, và hỗ trợ quản lý dự án lớn và phức tạp.
+
+//BTVN: Viết lại các bài tập trong learn.codegym phần Hàm và phương thức 2TH+2BT
+
+Bai Mau
+class Program
+    {
+        static void Main(string[] args)
+        {
+            float[] a = { 4, 66, 33, 63, 11 };
+            XoaPhanTuKhoiMang(a, 66);
+        }
+
+        private static void XoaPhanTuKhoiMang(float[] mang, int soCanXoa)
+        {
+            for (int i = 0; i < mang.Length; i++)
+            {
+                Console.Write(mang[i] + " ");
+            }
+            int indexToRemove = -1;
+            for (int i = 0; i < mang.Length; i++)
+            {
+                if (mang[i] == soCanXoa)
+                {
+                    indexToRemove = i;
+                }
+            }
+            Console.WriteLine();
+            if (indexToRemove == -1)
+            {
+                Console.WriteLine("Ko tim thay gia tri " + soCanXoa);
+                return;
+            }
+
+            for (int i = indexToRemove; i < mang.Length; i++)
+            {
+                if (i == mang.Length - 1)
+                {
+                    mang[i] = 0;
+                }
+                else
+                {
+                    mang[i] = mang[i + 1];
+                }
+            }
+
+            for (int i = 0; i < mang.Length; i++)
+            {
+                Console.Write(mang[i] + " ");
+            }
+        }
+    }
