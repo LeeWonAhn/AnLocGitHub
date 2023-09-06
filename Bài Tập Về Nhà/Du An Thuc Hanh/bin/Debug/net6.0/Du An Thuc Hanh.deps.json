@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Du An Thuc Hanh/1.0.0": {
+        "runtime": {
+          "Du An Thuc Hanh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Du An Thuc Hanh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
