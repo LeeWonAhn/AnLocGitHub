@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.exe
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.deps.json
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.runtimeconfig.json
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.runtimeconfig.dev.json
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.dll
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\bin\Debug\netcoreapp3.1\Practice_ReadFile.pdb
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.AssemblyInfo.cs
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.dll
+C:\Users\nguye\Documents\CodeGym\Practice_ReadFile\obj\Debug\netcoreapp3.1\Practice_ReadFile.pdb

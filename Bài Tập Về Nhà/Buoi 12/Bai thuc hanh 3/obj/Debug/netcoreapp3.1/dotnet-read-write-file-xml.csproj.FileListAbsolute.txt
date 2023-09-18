@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-read-write-file-xml\bin\Debug\netcoreapp3.1\dotnet-read-write-file-xml.exe
+D:\CodeGym\Practice\dotnet-read-write-file-xml\bin\Debug\netcoreapp3.1\dotnet-read-write-file-xml.deps.json
+D:\CodeGym\Practice\dotnet-read-write-file-xml\bin\Debug\netcoreapp3.1\dotnet-read-write-file-xml.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-read-write-file-xml\bin\Debug\netcoreapp3.1\dotnet-read-write-file-xml.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-read-write-file-xml\bin\Debug\netcoreapp3.1\dotnet-read-write-file-xml.dll
+D:\CodeGym\Practice\dotnet-read-write-file-xml\bin\Debug\netcoreapp3.1\dotnet-read-write-file-xml.pdb
+D:\CodeGym\Practice\dotnet-read-write-file-xml\obj\Debug\netcoreapp3.1\dotnet-read-write-file-xml.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-read-write-file-xml\obj\Debug\netcoreapp3.1\dotnet-read-write-file-xml.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-read-write-file-xml\obj\Debug\netcoreapp3.1\dotnet-read-write-file-xml.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-read-write-file-xml\obj\Debug\netcoreapp3.1\dotnet-read-write-file-xml.dll
+D:\CodeGym\Practice\dotnet-read-write-file-xml\obj\Debug\netcoreapp3.1\dotnet-read-write-file-xml.pdb

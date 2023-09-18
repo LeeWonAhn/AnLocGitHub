@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\bin\Debug\netcoreapp3.1\Practice_CopyFile.exe
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\bin\Debug\netcoreapp3.1\Practice_CopyFile.deps.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\bin\Debug\netcoreapp3.1\Practice_CopyFile.runtimeconfig.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\bin\Debug\netcoreapp3.1\Practice_CopyFile.runtimeconfig.dev.json
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\bin\Debug\netcoreapp3.1\Practice_CopyFile.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\bin\Debug\netcoreapp3.1\Practice_CopyFile.pdb
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\obj\Debug\netcoreapp3.1\Practice_CopyFile.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\obj\Debug\netcoreapp3.1\Practice_CopyFile.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\obj\Debug\netcoreapp3.1\Practice_CopyFile.AssemblyInfo.cs
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\obj\Debug\netcoreapp3.1\Practice_CopyFile.dll
+C:\Users\nguye\Documents\CodeGym\Demo\Practice_CopyFile\obj\Debug\netcoreapp3.1\Practice_CopyFile.pdb
