@@ -1,0 +1,27 @@
+------------------------------------
+             Shape
+------------------------------------
+- color: String
++ Shape(color: String)
++ getColor(): String
++ setColor(color: String): void
++ toString(): String
+------------------------------------
+              Circle
+------------------------------------
+- radius: double
++ Circle(radius: double, color: String)
++ getRadius(): double
++ setRadius(radius: double): void
++ getArea(): double
++ toString(): String
+------------------------------------
+            Cylinder
+------------------------------------
+- height: double
++ Cylinder(radius: double, color: String, height: double)
++ getHeight(): double
++ setHeight(height: double): void
++ getVolume(): double
++ toString(): String
+------------------------------------

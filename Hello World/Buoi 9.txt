@@ -1,0 +1,16 @@
+Noi dung buoi 9.txt
+1.Kế thừa:
++C# Inheritance
++Phạm vi: public>protected>private
++Ghi đè hàm: virtual , override
+2.Kế thừa ngầm định
+3.Abstract: trừu tượng
++Không thể khởi tạo, muốn khởi tạo phải truy cập qua lớp con.
+Sử dụng abstract khi nào? 
+Khi ta không muốn người khác khởi tạo 1 lớp quá chung, quá trừu tượng, 
+mà muốn dùng nó thì phải khởi tạo qua 1 lớp con
+4.Overload
+Sử dụng khi nào? Khi mà ta có 2 hàm hoạt động gần giống nhau, chỉ khác mỗi tham số truyền vào , thì ta dùng overload.
+5.Polymorphism
+
+BTVN: Làm hết bài tập và bài thực hành

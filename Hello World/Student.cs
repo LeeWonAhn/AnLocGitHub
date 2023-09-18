@@ -1,6 +1,6 @@
 public class Student
 {
-    public Student(){
-        
-    }
+    public string Name;
+    public int PhoneNumber;
+    
 }

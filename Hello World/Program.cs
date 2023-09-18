@@ -250,6 +250,11 @@
     var account = new BankAccount();
     string a = BankAccount.specialName;
     // ulitiles.Sum(1, 2);
+    Dog dog1 = new Dog();
+    dog1.MakeSound();
+
+    Pig pig1 = new Pig();
+    pig1.MakeSound();
 }
 }
 }

@@ -1,3 +1,37 @@
+1. Một đối tượng BankAccount
++Thuộc tính
+    public string Name { get; private set; } = "default";
+    public double MoneyCount { get; private set; }
+    public string Address { get; private set; }
+    public double PhoneNumber { get; private set; }
++Hàm khởi tạo
+    public BankAccount()
+    {
+
+    }
+
+    public BankAccount(string name, double moneyCount, double phoneNumber)
+    {
+        this.Name = name;
+        this.MoneyCount = moneyCount;
+        this.PhoneNumber = phoneNumber;
+    }
+
++Hàm thông thường
+
+2.Lưu ý: Rất hay hỏi khi phỏng vấn:
++Kiểu tham chiếu (Reference type)
++Kiểu giá trị (Value type)
 value type: trỏ thẳng đến giá trị
 referance type là chỉ đến dịa chỉ => gia trị
 Pointer type là chỉ đến địa chỉ
+
+3.Access Modifier:
+Cần nhớ private và public
+4.Từ khóa this:
+Là chính nó.
+5.Static : Tĩnh
+Không cần khởi tạo cũng có thể gọi  được Hàm, hoặc trường dữ liệu.
+Và trong hàm tĩnh chỉ được phép sử dụng biến tĩnh.
+
+//BTVN: Các bài tập và thực hành của lớp và đối tượng.
