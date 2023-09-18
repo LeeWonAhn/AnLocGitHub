@@ -1,4 +1,3 @@
-Noi dung buoi 9.txt
 1.Kế thừa:
 +C# Inheritance
 +Phạm vi: public>protected>private

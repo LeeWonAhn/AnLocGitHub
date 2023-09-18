@@ -1,0 +1,16 @@
+
+//chua bai tap
+Giản đồ UML (Class diagram): 
+dấu - là private;
+dấu + là public;
+
+1.Abstract:
+-Khi mà có nhiều lớp có chung 1 hàm cấu trúc và các trường dữ liệu như nhau, thì chúng ta tìm điểm chung của nó và viết ra 1 lớp chung, từ đó chúng ta kế thừa từ nó.
+
+2.Interface:
+-Khi mà cấu trúc các lớp quá phức tạp, và chúng ta không muốn ghi rõ cách hoạt động của các lớp cha, thì chúng ta có thể dùng interface, tất cả các hàm, các trường của interface chỉ mô tả cấu trúc, chứ ko có một phần thân cụ thể.
+-Khi mà chúng ta muốn kế thừa từ lớp cha, thì chúng ta phải mô tả tất cả những gì được định nghĩa ở lớp cha.
+
+Ứng dụng khác: khi mà dự án quá phức tạp, chúng ta không thể đợi người khác làm xong phần việc của họ rồi mới viết đc. Thì chúng ta có thể bàn với nhau rồi thiết kế 1 class thành interface, giống như là 1 cách mô tả khái quát về class đó.
+
+BTVN: Làm hết bài tập và phần thực hành.

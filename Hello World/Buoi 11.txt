@@ -1,0 +1,26 @@
+1. Các lỗi cơ bản và cách đọc.
+-IndexOutOfRangeException: Khi gọi một vị trí nằm ngoài vùng biên của mảng.
+-NullReferenceException: Khi mà sử dụng 1 đối tượng chưa được khởi tạo, cũng chưa được gán.
+-FormatException: VD: Xảy ra khi mà chúng ta cố chuyển 1 chuỗi chữ sang số.
+
+Hướng dẫn đọc lỗi: 
++Nhìn vào thể loại lỗi và tra ra file + dòng bị lỗi,
++Dòng bị lỗi thường sẽ ở ngay trên cùng
+
+2. Tự bắn lỗi:
+-Mục đích sử dụng: 
++ Để khi chúng ta viết code, chúng ta biết ngay là đang sử dụng sai hay lỗi ở chỗ nào đó;
+
+Cú pháp (throw new TÊN_EXCEPTION("");)
+Vd:
+throw new NullReferenceException("Nội dung lỗi");
+
+3.Try/Catch
++Khi mà chúng ta không muốn vì lỗi mà ngắt chuong trình thì chúng ta có thể sử dụng try catch
+
+
+
+Tips: Thường xuyên lên các trang luyện code để tập
++Hackkerank
++CodeChef
++LeetCode

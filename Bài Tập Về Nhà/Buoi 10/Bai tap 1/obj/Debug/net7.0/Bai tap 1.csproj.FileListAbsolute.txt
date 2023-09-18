@@ -1,0 +1,14 @@
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/Bai tap 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/Bai tap 1.AssemblyInfoInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/Bai tap 1.AssemblyInfo.cs
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/Bai tap 1.csproj.CoreCompileInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/bin/Debug/net7.0/Bai tap 1
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/bin/Debug/net7.0/Bai tap 1.deps.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/bin/Debug/net7.0/Bai tap 1.runtimeconfig.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/bin/Debug/net7.0/Bai tap 1.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/bin/Debug/net7.0/Bai tap 1.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/Bai tap 1.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/refint/Bai tap 1.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/Bai tap 1.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/Bai tap 1.genruntimeconfig.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 10/Bai tap 1/obj/Debug/net7.0/ref/Bai tap 1.dll
