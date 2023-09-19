@@ -1,0 +1,14 @@
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/bin/Debug/net7.0/Game Tic Tac Toe
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/bin/Debug/net7.0/Game Tic Tac Toe.deps.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/bin/Debug/net7.0/Game Tic Tac Toe.runtimeconfig.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/bin/Debug/net7.0/Game Tic Tac Toe.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/bin/Debug/net7.0/Game Tic Tac Toe.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/Game Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/Game Tic Tac Toe.AssemblyInfoInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/Game Tic Tac Toe.AssemblyInfo.cs
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/Game Tic Tac Toe.csproj.CoreCompileInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/Game Tic Tac Toe.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/refint/Game Tic Tac Toe.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/Game Tic Tac Toe.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/Game Tic Tac Toe.genruntimeconfig.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/Debug/net7.0/ref/Game Tic Tac Toe.dll
