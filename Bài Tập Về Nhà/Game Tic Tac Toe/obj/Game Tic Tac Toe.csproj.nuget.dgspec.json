@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj": {}
+    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj": {}
   },
   "projects": {
-    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj": {
+    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj",
+        "projectUniqueName": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj",
         "projectName": "Game Tic Tac Toe",
-        "projectPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj",
+        "projectPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/Game Tic Tac Toe.csproj",
         "packagesPath": "/Users/jarvis/.nuget/packages/",
-        "outputPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/",
+        "outputPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Game Tic Tac Toe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jarvis/.nuget/NuGet/NuGet.Config"

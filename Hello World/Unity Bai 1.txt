@@ -1,0 +1,12 @@
+Buoi 1.txt
+1. Một số engine phổ biến: Unity > Cocos > Godot > UE
+2. Những Window hay được sử dụng trong Unity:
++Scene: là màn chơi, có hình ảnh, sử dụng để quản lý những thứ có trong màn chơi
++Game: Là những gì sẽ được hiển thị khi chơi trên thiết bị
++Hierarchy: Để quản lý những vật thể có trong màn chơi.
++Inspector: Để xem thông tin chi tiết của vật thể trong màn chơi.
++Project: quản lý những file có trong dự án
++Console: để in ra thông tin, cảnh báo , lỗi.
+
+VN: lap tai khoan Unity + tai Unity, nhớ tích mục visual studio
+Bonus : On them cau truc du lieu giai thuat

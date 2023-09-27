@@ -13,3 +13,17 @@
 /Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.pdb
 /Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.genruntimeconfig.cache
 /Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/obj/Debug/net6.0/ref/Bai thuc hanh buoi 8.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/bin/Debug/net6.0/Bai thuc hanh buoi 8
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/bin/Debug/net6.0/Bai thuc hanh buoi 8.deps.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/bin/Debug/net6.0/Bai thuc hanh buoi 8.runtimeconfig.json
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/bin/Debug/net6.0/Bai thuc hanh buoi 8.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/bin/Debug/net6.0/Bai thuc hanh buoi 8.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.AssemblyInfoInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.AssemblyInfo.cs
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.csproj.CoreCompileInputs.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/refint/Bai thuc hanh buoi 8.dll
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.pdb
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/Bai thuc hanh buoi 8.genruntimeconfig.cache
+/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/Debug/net6.0/ref/Bai thuc hanh buoi 8.dll

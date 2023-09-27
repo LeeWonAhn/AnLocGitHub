@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj": {}
+    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj": {}
   },
   "projects": {
-    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj": {
+    "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj",
+        "projectUniqueName": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj",
         "projectName": "Bai thuc hanh buoi 8",
-        "projectPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj",
+        "projectPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/Bai thuc hanh buoi 8.csproj",
         "packagesPath": "/Users/jarvis/.nuget/packages/",
-        "outputPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Bai thuc hanh buoi 8/obj/",
+        "outputPath": "/Users/jarvis/Downloads/AnLocGitHub/Bài Tập Về Nhà/Buoi 8/Bai thuc hanh buoi 8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jarvis/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

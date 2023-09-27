@@ -1,0 +1,22 @@
+Công cụ di chuyển cơ bản của Unity:
+Di chuyển: thao tác bằng phím tắt W.
+Xoay: phím E
+Phóng to, thu nhỏ: phím R.
+Công cụ snapping:
+Chuyển sang global 
+
+Bật snapping 
+
+Đối tượng và các thuộc tính cơ bản
++Asset
++Gameobject
++Component
+
+-Các component thông dụng: Camera, lightning, Transform (mọi game object đều có),
+
+Vòng đời của 1 component (Monobehaviour)
++Awake: là khi script được load lên
++Start: khi khung hình đầu tiên chạy
++FixedUpdate và Update: liên tục chạy trong quá trình chơi game, điểm khác nhau là fixedupdate chạy theo 1 số lần nhất định trên giây, còn update thì chạy liên tục không phụ thuộc vào con số cụ thể nào.
+
+BTVN: Là xây dựng 1 thành phố nhỏ sử dụng công cụ grid snapping của Unity.
